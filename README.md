@@ -72,4 +72,4 @@ nếu có lỗi hoặc yêu cầu sự trợ giúp bạn có thể contact bọn
 
 **Demo**
 
- tài khoản bot: [Kẹo Sữa (Sumi-Chan)](https://facebook.com/Catalizcs.SumiChan)# sumi-chan
+ tài khoản bot: [Kẹo Sữa (Sumi-Chan)](https://facebook.com/Catalizcs.SumiChan)
